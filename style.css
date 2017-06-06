@@ -1,0 +1,16 @@
+/*
+ Theme Name:   Unicon Child
+ Theme URI:    http://example.com/unicon-child/
+ Description:  Unicon Child Theme
+ Author:       Concept 
+ Author URI:   http://example.com
+ Template:     unicon
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  unicon-child
+*/
+
+.wpcf7-form-control-wrap {
+    margin-bottom: 20px!important;
+}
